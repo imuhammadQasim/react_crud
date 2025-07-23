@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+<img width="1907" height="862" alt="image" src="https://github.com/user-attachments/assets/56f1d8fb-5830-4c3c-ac51-0462e7f50863" /><<<<<<< HEAD
 # 🛠️ React.js CRUD App
 
 This project demonstrates a simple **CRUD (Create, Read, Update, Delete)** operation using **React.js** with local state (or optionally with `localStorage`). It’s perfect for beginners looking to understand how to manage form inputs and state in React.
@@ -30,6 +30,7 @@ Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+ScreenShot: https://github.com/user-attachments/assets/56f1d8fb-5830-4c3c-ac51-0462e7f50863
 
 ## Expanding the ESLint configuration
 
